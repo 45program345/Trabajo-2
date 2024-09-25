@@ -1,0 +1,38 @@
+h1{color: #ffffff;
+background-color: rgba(55, 0, 255, 0.384);
+padding: 5%;
+
+}
+.tio{
+background-color: rgba(36, 7, 90, 0.918);
+color: #ffffff;
+padding: 10px;
+display: inline-block;
+width: 10%;
+text-decoration: none;
+}
+#tia{background: rgb(61, 48, 136);
+    width: 20%;
+    padding: 20px;
+    margin: 10px;
+    color: #ffffff;
+}
+.padre{
+    display: flex;
+}
+h2{
+    color: #ffffff;
+    background: rgba(0, 0, 255, 0.281);
+}
+h3{color: #ffffff;
+    background: rgba(81, 81, 179, 0.493);
+}
+.loro{color: rgb(70, 8, 243);
+background-color: rgb(154, 154, 182);
+padding: 12px;
+margin: 11px;
+}
+
+
+]
+
